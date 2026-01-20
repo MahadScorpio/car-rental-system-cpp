@@ -31,7 +31,7 @@ This project focuses on logic building without using advanced features like STL 
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 - **Owner View**
   - Manage cars (add, edit, remove)
