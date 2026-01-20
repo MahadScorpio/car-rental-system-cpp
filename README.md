@@ -45,17 +45,6 @@ This project focuses on logic building without using advanced features like STL 
 
 ---
 
-## ▶️ How to Run
-
-1. Compile the program:
-   ```bash
-   g++ main.cpp -o car_rental
-
-2. Run the program:
-   ./car_rental
-   
----
-
 👤 Author
 
 Mahad Hassan
