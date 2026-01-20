@@ -6,7 +6,7 @@ This project focuses on logic building without using advanced features like STL 
 
 ---
 
-## 🚗 Features
+## Features
 
 - Owner and Customer panels
 - Add, edit, remove, and rent cars
@@ -20,10 +20,10 @@ This project focuses on logic building without using advanced features like STL 
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - Arrays and parallel arrays
-- Character arrays (no `string`, no `struct`)
+- Character arrays (no `string`)
 - Loops and conditional statements
 - Input validation
 - Menu-driven program design
